@@ -1,0 +1,11 @@
+/**
+ * Developer: Devp Dark Empire
+ * Brand: NexGen Tech Zone
+ * Powered By Empire And Ninja Tech
+ * Description: Premium Users Database
+ */
+
+module.exports = [
+  "923XXXXXXXXX", // <-- Yahan apna ya kisi premium user ka number likhein (Bina + ke)
+  // "923YYYYYYYYY" // Agar aur log add karne hon toh comma laga kar aise likhte jayen
+]

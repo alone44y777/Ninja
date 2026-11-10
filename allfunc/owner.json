@@ -1,0 +1,11 @@
+/**
+ * Developer: Devp Dark Empire
+ * Brand: NexGen Tech Zone
+ * Powered By Empire And Ninja Tech
+ */
+
+module.exports = [
+  "923XXXXXXXXX@s.whatsapp.net", // <-- Yahan Apna WhatsApp Number likhein
+  "923XXXXXXXXX@lid",            // <-- Yahan bhi Apna Number likhein
+  "923XXXXXXXXX@s.whatsapp.net"  // <-- Agar koi 2nd owner hai, warna apna hi likh dein
+]
