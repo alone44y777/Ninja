@@ -1,0 +1,10 @@
+/**
+ * Developer: Devp Dark Empire
+ * Project: NexGen Tech Zone Files
+ * Description: Admin Tele / Logs ID Database
+ */
+
+module.exports = [
+  // Old dev ki ID remove kar di gayi hai (Security Risk)
+  "YOUR_TELE_OR_WA_ID_HERE" // <-- Agar zaroorat ho toh yahan apna ID dalen, warna khali chhor dein
+]

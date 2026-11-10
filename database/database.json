@@ -1,0 +1,7 @@
+/**
+ * Developer: Devp Dark Empire
+ * Project: NexGen Tech Zone Files
+ * Description: Main Local Database for Empire & Ninja MD Bot
+ */
+
+module.exports = {}; // Fresh, khali database

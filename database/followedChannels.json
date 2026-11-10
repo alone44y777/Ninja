@@ -1,0 +1,9 @@
+/**
+ * Developer: Devp Dark Empire
+ * Project: NexGen Tech Zone Files
+ * Description: Followed WhatsApp Channels Database for Empire & Ninja MD
+ */
+
+module.exports = [
+  "ID_YAHAN_DALEN@newsletter"
+];

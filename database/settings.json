@@ -1,0 +1,21 @@
+/**
+ * Developer: Devp Dark Empire
+ * Project: NexGen Tech Zone Files
+ * Description: Global Settings & Configuration for Empire & Ninja MD Bot
+ */
+
+module.exports = {
+  // Bot & Owner Identity
+  botName: "Empire & Ninja MD Bot",
+  ownerName: "Empire (NexGen Tech)",
+  ownerNumber: "923XXXXXXXXX", // <-- Yahan apna WhatsApp number dalen (Bina + ke)
+  prefix: ".",                 // Bot ka command prefix (jaise .menu, .ping)
+  
+  // Bot Personalities & Modes
+  MODE: "public",              // Options: "public" (sab ke liye) ya "private" (sirf owner ke liye)
+  AUTO_REACT: false,           // Auto reaction feature status
+  ANTI_LINK: false,            // Anti-link group protection default status
+  
+  // Developer Attribution (Internal Documentation Brand)
+  internalBrand: "NexGen Tech Zone"
+};

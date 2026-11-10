@@ -1,0 +1,7 @@
+/**
+ * Developer: Devp Dark Empire
+ * Project: NexGen Tech Zone Files
+ * Description: Banned Users/Groups Database
+ */
+
+module.exports = []; // Abhi koi ban nahi hai
